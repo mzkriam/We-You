@@ -9,4 +9,4 @@ This repository contains the code for the We & You website, which I developed as
 - **Interactive Elements**: Dynamic features that engage users throughout their visit.
 
 
-![screencapture-127-0-0-1-5500-index-html-2024-04-07-01_57_45 (1)](https://github.com/mzkriam/We-You/assets/73972415/ec18f2e5-5c25-4cd7-81dd-39a11ff98921)
+![screencapture-127-0-0-1-5500-2024-04-02-18_18_28](https://github.com/mzkriam/We-You/assets/73972415/6fb1220a-41a6-4dce-9585-7267bc64b4b1)
